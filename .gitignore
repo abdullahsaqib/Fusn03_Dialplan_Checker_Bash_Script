@@ -1,0 +1,9 @@
+*.pyc
+_pycache_/
+db.sqlite3
+.env
+venv/
+# Ignore static files collected via collectstatic
+/static/
+/staticfiles/
+/fpbx_venv/
